@@ -1,0 +1,14 @@
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\bin\Debug\netcoreapp2.1\hotel-mns-api.deps.json
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\bin\Debug\netcoreapp2.1\hotel-mns-api.runtimeconfig.json
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\bin\Debug\netcoreapp2.1\hotel-mns-api.runtimeconfig.dev.json
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\bin\Debug\netcoreapp2.1\hotel-mns-api.dll
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\bin\Debug\netcoreapp2.1\hotel-mns-api.pdb
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.csprojAssemblyReference.cache
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.csproj.CoreCompileInputs.cache
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.RazorAssemblyInfo.cache
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.RazorAssemblyInfo.cs
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.AssemblyInfoInputs.cache
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.AssemblyInfo.cs
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.RazorTargetAssemblyInfo.cache
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.dll
+D:\SiteProject\HotelManagement\src\hotel-mns-api\hotel-mns-api\obj\Debug\netcoreapp2.1\hotel-mns-api.pdb
